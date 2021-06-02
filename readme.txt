@@ -1,1 +1,1 @@
-test
+run the code on main,i might add a .exe
